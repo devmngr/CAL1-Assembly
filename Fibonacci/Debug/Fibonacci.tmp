@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\Debug\Fibonacci.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Fibonacci.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Fibonacci.map</FILE>
+  <FILE>Fibonacci.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <ERROR><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>122</LINE></ERROR>
+  <NEXT><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>37</LINE></NEXT>
+  <Display><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>106</LINE></Display>
+  <FIB><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>46</LINE></FIB>
+  <Fib_1And2><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>69</LINE></Fib_1And2>
+  <FIB_Other><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>81</LINE></FIB_Other>
+  <RUN><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>108</LINE></RUN>
+  <BLINK><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>114</LINE></BLINK>
+  <DELAY><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>126</LINE></DELAY>
+  <LOOP3><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>128</LINE></LOOP3>
+  <LOOP2><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>129</LINE></LOOP2>
+  <LOOP1><FILE>D:\School\Semester 3\AtmelStudio\Cal1 Assembler\Fibonacci\main.asm</FILE><LINE>130</LINE></LOOP1>
+ </LABELS>
+</ASSEMBLER_INFO>
